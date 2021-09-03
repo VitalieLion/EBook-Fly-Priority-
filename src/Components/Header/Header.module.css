@@ -1,0 +1,24 @@
+.header {
+  margin-top: 20px;
+  padding: 20px 10px 0;
+  display: flex;
+  justify-content: space-between;
+}
+.searchBar input {
+  border: none;
+  height: 20px;
+  outline: none;
+}
+.logo {
+  display: flex;
+  justify-content: space-between;
+}
+.logo_title {
+  font-weight: bold;
+  font-size: 24px;
+  margin: 0 0 10px 10px;
+  color: #e31f3d;
+}
+.login button {
+  width: 90px;
+}

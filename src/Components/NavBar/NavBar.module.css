@@ -1,0 +1,16 @@
+.navBar__inner {
+  display: flex;
+  background: #1e2848;
+  justify-content: space-between;
+  margin: 15px 0;
+  padding: 15px 30px;
+  border-radius: 10px;
+}
+.navBar__inner a:hover {
+  color: #e31f3d;
+  transition: all 0.7s;
+}
+.navBar__inner a {
+  color: #fff;
+  font-size: 18px;
+}

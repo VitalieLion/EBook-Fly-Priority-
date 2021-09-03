@@ -1,0 +1,12 @@
+.title {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.items {
+  display: flex;
+  justify-content: space-around;
+  font-size: 14px;
+}
